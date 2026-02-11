@@ -8,12 +8,13 @@
 ### ❤️Citation
 If you find it valuable and cite it, we would be deeply grateful🌹:
 ```text
-@inproceedings{
-anonymous2026beyond,
-title={Beyond Student: An Asymmetric Network for Neural Network Inheritance},
-author={Anonymous},
-booktitle={The Fourteenth International Conference on Learning Representations},
-year={2026},
-url={https://openreview.net/forum?id=mp67iSM7qn}
+@misc{zhou2026studentasymmetricnetworkneural,
+      title={Beyond Student: An Asymmetric Network for Neural Network Inheritance}, 
+      author={Yiyun Zhou and Jingwei Shi and Mingjing Xu and Zhonghua Jiang and Jingyuan Chen},
+      year={2026},
+      eprint={2602.09509},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.09509}, 
 }
 ```
